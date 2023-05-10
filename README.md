@@ -12,7 +12,7 @@
 
 ### About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pereiraamanda)](https://github.com/pereiraamanda)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-pereira-020baa180/)](https://www.linkedin.com/in/amanda-pereira-020baa180/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-pereira-020baa180/)]([https://www.linkedin.com/in/amanda-pereira-020baa180/](https://www.linkedin.com/in/amandajpereira/))
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpereira.amanda@gmail.com)](mailto:jpereira.amanda@gmail.com)
 
 - Thanks for visiting :wave:
